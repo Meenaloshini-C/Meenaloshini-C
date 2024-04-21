@@ -76,12 +76,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenaloshini-C&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Used">
 
 <hr>
-
-### 🔝 Top Contributed 
-
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Meenaloshini-C&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-<hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
