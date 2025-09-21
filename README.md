@@ -18,17 +18,13 @@
 <br>
 
 <div style="text-align: center;">
-  <a href="mailto:rogenirchris@gmail.com" style="display: inline-block; margin: 20px;">
+  <a href="mailto:meenaloshini294@gmail.com" style="display: inline-block; margin: 20px;">
     <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white" alt="Gmail" style="width: 100px;">
   </a>
 
 
-  <a href="https://www.linkedin.com/in/chris-rogen-i-r-008673302/" target="_blank" style="display: inline-block; margin: 20px;">
+  <a href="www.linkedin.com/in/c-meenaloshini" target="_blank" style="display: inline-block; margin: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 125px;">
-  </a>
-
-  <a href="https://salesp07.github.io" target="_blank" style="display: inline-block; margin: 20px;">
-    <img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=todoist&logoColor=white" alt="Portfolio" style="width: 123px;">
   </a>
 </div>
 
